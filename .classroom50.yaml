@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "intro-to-ros"
+assignment: "homework-submission-practice"
+owner:
+  username: "srdallas"
+  id: 18145221
+  accepted_at: "2026-09-21T16:38:13Z"
+source:
+  owner: "ou-hri-class"
+  owner_id: 91338708
+  repo: "homework_submission_practice"
+  branch: "main"
